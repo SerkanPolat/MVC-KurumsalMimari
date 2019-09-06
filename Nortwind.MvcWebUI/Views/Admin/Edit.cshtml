@@ -1,0 +1,11 @@
+﻿@model Nortwind.Entities.Product
+
+@{ 
+    Layout = "../Shared/_AdminLayout.cshtml";
+}
+<h1>Edit</h1>
+@using (Html.BeginForm())
+{
+    @Html.EditorForModel();
+    <input type="submit" value="Degistir" />
+}

@@ -1,0 +1,24 @@
+﻿@model Nortwind.Entities.User
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div> 
+        @Html.ValidationSummary()
+        @using (Html.BeginForm())
+        {
+            @Html.EditorForModel()
+            <input type="submit" value="Giris Yap" />
+        }
+
+    </div>
+</body>
+</html>

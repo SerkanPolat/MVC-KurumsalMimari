@@ -1,0 +1,40 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="Site.css">
+    <title>_Layout</title>
+</head>
+<body>
+    <div id="header">
+        <h1>Ilk MVC PROJESI</h1>
+        @{Html.RenderAction("CartSummary", "Cart");}
+
+    </div>
+
+    <div id="categories">
+
+        <div>
+
+            @{Html.RenderAction("List", "Category");}
+
+        </div>
+
+    </div>
+
+    <div id="content">
+
+        @RenderBody()
+
+    </div>
+</body>
+</html>

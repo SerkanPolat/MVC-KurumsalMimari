@@ -1,0 +1,12 @@
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\bin\Debug\Nortwind.CrossCuttingConcerns.dll.config
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\bin\Debug\Nortwind.CrossCuttingConcerns.dll
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\bin\Debug\Nortwind.CrossCuttingConcerns.pdb
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\bin\Debug\Ninject.dll
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\bin\Debug\Ninject.Extensions.Interception.dll
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\bin\Debug\Ninject.xml
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\bin\Debug\Ninject.Extensions.Interception.xml
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\obj\Debug\Nortwind.CrossCuttingConcerns.csprojAssemblyReference.cache
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\obj\Debug\Nortwind.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\obj\Debug\Nortwind.CrossCuttingConcerns.csproj.CopyComplete
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\obj\Debug\Nortwind.CrossCuttingConcerns.dll
+C:\Users\Sp\source\repos\MVCD1\Nortwind.CrossCuttingConcerns\obj\Debug\Nortwind.CrossCuttingConcerns.pdb
