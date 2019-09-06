@@ -28,11 +28,11 @@ Kurumsal Mimaride MVC Projesinin Gerceklenmesi
   
   -WcfProxy : WCF Service Icin ABC Ayarlamasi Yapmaktadir.{ A=Adress,B=Binding,C=Channel} Ayarlama Yapildiktan Sonra Kanali Olusturur.Olusturulan Kanal Ninject Sayesinde Service Kullanimini Saglar.
   
-  -PagingHelpers : Sayfalama Her Sayfa Icin <a href> Tagi Olusturmaya Yaratan Class 
+  -PagingHelpers : Sayfalama Her Sayfa Icin a-href Tagi Olusturmaya Yaratan Class 
   -ModelBinders : Sessiondan Her Metodda Alinmasi Gereken Entitiesi ModelBinder Kullanarak Parametre Seklinde Gelmesi Saglanmaktadir.
   -Global.asax : Defaul Ninject ve Model Binders'in Ayarlandigi Yer.
   
-  WCF Service Kullanimi Icin Web.config Dosyasina ConnectionString Yazilmasi Gerekmektedir.
-  BLL'de ise UI'de Yazilmasi Yeterlidir.
+  **WCF Service Kullanimi Icin Web.config Dosyasina ConnectionString Yazilmasi Gerekmektedir.
+  **BLL'de ise UI'de Yazilmasi Yeterlidir.
   
   
