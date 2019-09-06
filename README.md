@@ -33,6 +33,6 @@ Kurumsal Mimaride MVC Projesinin Gerceklenmesi
   -Global.asax : Defaul Ninject ve Model Binders'in Ayarlandigi Yer.
   
   **WCF Service Kullanimi Icin Web.config Dosyasina ConnectionString Yazilmasi Gerekmektedir.
-  **BLL'de ise UI'de Yazilmasi Yeterlidir.
+  BLL'de ise UI'de Yazilmasi Yeterlidir.
   
   
